@@ -10,3 +10,5 @@ This repo contains tools for univariate ,multivariate and correlation visualizat
 3-Regressor_target_exploration.ipynb-> it consist of the tool for the analysis of target variable whether it is normally distributed ,it's skewness and peakedness(kurtosis).
 
 4-Null_Visualise.ipynb->For visualization of percentage of null data in each columns of dataframe by using sns.heatmap .
+
+5-FrequencyPlot.ipynb->Different way to plot the frequency of occurence of value in categorical feature in a dataset.
